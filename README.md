@@ -5,6 +5,7 @@
  
  <img src="https://badges.pufler.dev/years/MatijaKaraklic"/>
  <img src="https://badges.pufler.dev/repos/MatijaKaraklic"/>
+ <img src="https://badges.pufler.dev/commits/yearly/MatijaKaraklic"/>
 
 </p>
 
