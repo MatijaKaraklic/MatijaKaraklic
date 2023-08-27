@@ -1,6 +1,13 @@
 
 <img src="https://github.com/MatijaKaraklic/MatijaKaraklic/blob/main/image/header.png" />
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/years/MatijaKaraklic"/>
+ <img src="https://badges.pufler.dev/repos/MatijaKaraklic"/>
+
+</p>
+
 
 - 📫 How to reach me:
 - Email: matija.karaklic25@gmail.com
