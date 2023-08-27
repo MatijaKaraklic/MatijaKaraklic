@@ -9,12 +9,6 @@
 
 </p>
 
-
-- 📫 How to reach me:
-- Email: matija.karaklic25@gmail.com
-- Discord: matija7103
-- Portfolio: https://matijak-portfolio.webflow.io/
-
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
@@ -32,3 +26,9 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+<h2 align="center">📫 How to reach me</h2>
+
+- 📩 Email: matija.karaklic25@gmail.com
+- 👉 Discord: matija7103
+- 🖥️ Portfolio: https://matijak-portfolio.webflow.io/
